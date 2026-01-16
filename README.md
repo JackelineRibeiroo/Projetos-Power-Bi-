@@ -1,25 +1,12 @@
- Mini Projeto de Análise de Dados — Promoções, Salários e Rotatividade 📊
+📊 Portfólio de Projetos | Jackeline Ribeiro
+Bem-vindo(a) ao meu portfólio de projetos!
+Aqui compartilho projetos pessoais desenvolvidos com foco em análise de dados, criados como parte do meu processo de aprendizado e desenvolvimento técnico. Os projetos utilizam ferramentas acessíveis e amplamente utilizadas, e têm como objetivo transformar dados em informações claras e fáceis de interpretar.
 
-Este projeto consiste na criação de um dashboard em Excel com foco em indicadores básicos de Gestão de Pessoas, utilizando dados fictícios. 
-O objetivo principal foi colocar em prática conhecimentos iniciais de análise de dados, organização de informações e construção de painéis interativos, servindo como primeiro projeto publicado.
-O dashboard permite uma análise exploratória simples, oferecendo uma visão geral sobre promoções, salários médios, rotatividade e desligamentos, com apoio de filtros que facilitam a segmentação dos dados.
+📑 Sobre mim
+Prazer! Meu nome é Jackeline Ribeiro. Sou formada em Pedagogia e atualmente curso Administração, áreas que contribuíram para o desenvolvimento do meu pensamento analítico, organização e visão de gestão. Ao longo da minha formação, venho explorando o uso de dados como apoio à tomada de decisão e à compreensão de cenários.
 
-Objetivo do projeto:
+Tenho experiência com Excel, utilizando recursos como Power Query, tabelas dinâmicas, gráficos e dashboards interativos. Atualmente estou aprofundando meus conhecimentos em Excel, SQL e Power BI, buscando ampliar minhas habilidades técnicas e minha capacidade de análise.
 
-Aplicar conceitos básicos de análise e visualização de dados;
-Explorar a organização de informações de RH de forma clara e intuitiva;
-Desenvolver habilidades iniciais com dashboards e indicadores;
-Servir como ponto de partida para projetos mais completos no futuro.
+Este portfólio reúne meus primeiros projetos em análise de dados, desenvolvidos com dados fictícios e com foco no aprendizado contínuo. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e analíticas e aplicá-las em novos desafios.
 
-🛠️ Ferramentas Utilizadas:
-Microsoft Excel;
-Power Query (organização e estruturação dos dados);
-Tabelas Dinâmicas;
-Gráficos Dinâmicos;
-Segmentadores de Dados.
-
-Observações:
-Os dados utilizados são fictícios e têm finalidade exclusivamente educacional. Trata-se de um projeto inicial, com uma base de dados simples e limitada. 
-
-Link para visualização:
-https://app.powerbi.com/view?r=eyJrIjoiNGI3NWE3YTktMmNkMy00YTAxLTkyN2YtYzYzN2Q1ZjM3ZWVjIiwidCI6IjVhM2UxZWI5LWM3NzctNDQ1YS04MjQyLWQ4MjVhNDYxYjEyYiJ9
+👉 Para saber mais sobre mim, acesse meu [LinkedIn](https://www.linkedin.com/in/jackeline-rb/)
